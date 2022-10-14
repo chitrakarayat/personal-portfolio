@@ -6,7 +6,7 @@ body{
     margin: 0;
 }
 .body_section{
-    padding : 3% 5% 1%;
+    padding : 1% 5% 1%;
 }
 
 p{
@@ -39,6 +39,7 @@ p{
     color: black;
     margin: 0 7px 0 7px;
     font-size: 25px;
+
   }
 
   .headerachor:hover {
@@ -319,7 +320,6 @@ span.wave {
         height: 15%;
       }
   }
-
 
 
 

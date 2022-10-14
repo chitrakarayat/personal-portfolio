@@ -189,7 +189,9 @@
   
   .box-shadow { box-shadow:5px 5px 5px #d9dbdf; }
 
-  
+  .card-img-top{
+    height: 11rem;
+  }
 
 
   footer{
