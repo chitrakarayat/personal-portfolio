@@ -85,7 +85,7 @@ to {
     -moz-animation: Animate-CSS 5s;
     -o-animation: Animate-CSS 5s;
     border-radius:20px;
-    width: 70%;
+    width: 95%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -95,25 +95,25 @@ to {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 95%}
 }@-webkit-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 95%}
 }@-moz-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 95%}
 }@-o-keyframes Animate-CSS {
     from {
     width: 10px;
 }
 to {
-    width: 70%}
+    width: 95%}
 }#Skill-Python {
     border-radius:20px;
     animation: Animate-Python 5s;
@@ -155,7 +155,7 @@ to {
     -moz-animation: Animate-JS 4s;
     -o-animation: Animate-JS 4s;
     border-radius:20px;
-    width: 65%;
+    width: 90%;
     height: 50px;
     position: absolute;
     background-color: #6c63ff;
@@ -165,19 +165,19 @@ to {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 90%}
 }@-webkit-keyframes Animate-JS {
     from {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 90%}
 }@-moz-keyframes Animate-JS {
     from {
     width: 10px;
 }
 to {
-    width: 65%}
+    width: 90%}
 }@-o-keyframes Animate-JS {
     from {
     width: 10px;

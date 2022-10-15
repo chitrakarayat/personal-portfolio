@@ -205,6 +205,7 @@ span.wave {
   .Feature-Heading{
       font-family: "Montserrat";
       font-weight: 300;
+      margin-bottom: 30px;
   }
 
   .Feature-first-image{
@@ -235,6 +236,9 @@ span.wave {
       list-style: none;
       display: inline;
       padding: 0%;
+  }
+  .dev-icon li{
+    margin: 16px;
   }
 
 
